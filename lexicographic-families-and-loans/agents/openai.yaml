@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Families and Loans"
+  short_description: "Search families, variants and inflections, then loans"
+  default_prompt: "Use $lexicographic-families-and-loans to search this corpus jointly for word families, formal variants and inflections, then screen for loans."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lexicographic Import"
+  short_description: "Import dictionary entries through central offline staging"
+  default_prompt: "Use $lexicographic-import to transcribe this dictionary offline and reconcile families, formal variants and inflections in one search before final publication."

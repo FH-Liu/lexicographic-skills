@@ -1,0 +1,61 @@
+# Oroqen–Solon–Dagur comparisons and transfer limits
+
+These examples are inherited **project analyses**, not newly certified etymologies. The underlying source sheets and current register retain their confidence and evidence. Use them to retrieve comparable cases; adjudicate each new case on its own source evidence.
+
+## Source and variety discipline
+
+| Material | Essential discipline |
+|---|---|
+| Hu 2001, Chaoyang Oroqen | Search both supplied citations and prepared stems; preserve their distinction. Do not impose Hu's verb conversion on Solon or Dagur. |
+| Engkebatu 1984, Tengke Dagur | Separate printed comparisons, source doubt and later analyst expansions. Transcription is not automatically IPA. |
+| Dular 2019 / Delkir 2021, Nonni Solon | Pair each form with its own source's meanings; a merged entry does not make every source meaning evidence for every alternative. |
+| Dorji 1998 | Unmarked Hailar Solon; marked Khamnigan/Aoluguya records stay in their own varieties. Use printed pronunciation beside spelling. |
+
+Dorji `q/j/x/c` correspond in the cited materials to /tʃ dʒ ʃ ts/, not pinyin or English defaults. Orthographic `e/ē`, `o/ɵ/v`, g/ḡ and doubled vowels/consonants matter. The alphabet-to-IPA diagnostic is not a pronunciation generator. Broader cross-variety correspondences are hypotheses, not permission to rewrite stored forms or collapse varieties.
+
+Dorji family screening historically uses the extracted single-word inventory. Lexicalized compounds within it can be analyzed using their source evidence; multiword entries do not enter simply because they might help. The present user explicitly permits useful compound-origin evidence and removes the earlier instruction to ignore it.
+
+## Chinese retrieval patterns
+
+| Lead | Recorded project examples | Limit |
+|---|---|---|
+| Older/regional donor differs from gloss | 胰子 behind soap; 扁食 behind dumpling; 寒食 behind Qingming; 清酱 behind soy sauce; 取灯 behind matches | Search historical synonyms; a modern Chinese gloss is not the etymon. |
+| Rhotic material as l/r, sometimes medial | Nonni yanjol←烟卷儿, xelbin←馅儿饼; Oroqen meentul←面条儿; Dorji suubɵl/xuubɵl←书包儿 | Do not add 儿 to every liquid-ending word or infer unrestricted n→l. A former analyst's expansion is not independent attestation. |
+| Recipient verbal morphology | Nonni dun-lə-←炖; Oroqen tʊjgan-daa-←推板; Dagur tunʃ→tunʃil- | Segment only with local evidence; native endings are not borrowed merely because the base is. |
+| Lexical l versus suffix/rhotic material | 管理, 笊篱; Dagur sɿxoːl-←伺候 | Do not remove lexical l or invent 伺候儿 to explain a verbal suffix. |
+| Reduced 子 and other final syllables | 包子, 骡子, 裙子; 食/事/士 in 扁食/通事/道士 | Final s/ʃ/dʒi is not a unique 子 detector. |
+| Reduced compounds | Dagur loːb←萝卜, dʷəːb←豆腐, lont←笼头 | Final stops do not independently establish a historical Chinese tone category. |
+| Vowel/glide and nasal/labial adaptation | bāo→bo; f/p/b leads; prelabial nasal assimilation | Preserve counterexamples and variety conditions; do not infer tones from recipient length or use pinyin letters as IPA. |
+| Older/different initials or mediation | 街, 斤, 轿, 窗户 comparisons with velar forms | A shared layer is a hypothesis; these do not date borrowing or prove one donor dialect. |
+| Family evidence finds fuller donors | Nonni tuigan/tuiban and Dagur/Oroqen parallels → 推板 | This supports that lexical model, not a productive b→g law. |
+| Borrowed component in several compounds | 胶 in 胶片/胶皮; 水 in 水晶/水泥; 椒 in 辣椒/青椒 | Never propagate 水泥 to a crystal member; keep complete member models and shared-component scope. |
+
+Cross-variety repetitions of the same root are corroborating attestations, not independent root counts. Chinese–Dagur–Solon–Oroqen resemblance does not choose direct versus mediated transmission. Consider Mongolic/Manchu models and intermediaries without making an exhaustive route reconstruction a prerequisite.
+
+Examples of corrections that should guide practice:
+
+- The old 青海/上海 b readings were transcription errors, removing a purported b:h pattern. Check whether an apparent sound exception is actually a reading error.
+- Dorji `hi` air/vital energy has a probable Mongolic comparison in the current register; the Chinese gloss 气 alone did not justify the earlier Chinese lead. Laughter is outside that loan's sense scope.
+- Dorji `laas` can and `las` basket are separate current units. A similar shape does not license one donor across them.
+- `qɵngkɵ/sɵngkɵ` window can have a Chinese lexical-source analysis while Mongolian цонх remains relevant to mediation. Label the claim actually established.
+- Short particles, nursery words and kinship terms need calibrated judgment; resemblance and contact do not force certainty. Warranted possible proposals should still be registered.
+
+## Russian and international vocabulary
+
+Assess complete shape and meaning, including recipient derivatives. The project gives strong weight to distinctive Russian models such as завод, карман, насос, товар and пулемёт, and to diagnostic full forms such as машина with machine/car senses. Russian /ts/ in центр/цирк/цена can be informative against some Western European models; /ts/ alone is not a language detector.
+
+Adaptation, clusters, final loss and Russian morphology may explain differences, but retain unexplained material. `kino`, `adrēs`, `nērw` and technical kh/h forms have competing European explanations; Russian contact alone does not settle them. A mismatch with English/French does not exclude German or mediation.
+
+The current register treats clear international vocabulary as borrowing with `Undetermined` donor language when resolving the immediate source is not useful. This is a project convention; do not classify all international words as Russian.
+
+Recorded cautionary examples:
+
+- `sēēmuxka` sunflower versus семечко seed is probable with semantic/segmental qualifications; do not invent an attested sunflower donor `семушка` from a brand name.
+- `kombinēr` has a printed economic meaning, separate from the `kombain` harvester family. Do not force комбайнёр onto it from spelling.
+- `karton` glossed 卡通 does not justify Russian картон “cardboard.” A source/meaning conflict is not repaired by choosing the nearest donor string.
+- `funt` has a strong фунт form match despite a source gloss mixing pound/pood. Keep the source issue distinct from the confidence of the form comparison.
+- `kabkan` with no definition is a source-completion lead; resemblance to капкан does not supply an attested trap meaning. Decide using usable evidence, without inventing the missing meaning.
+
+## Other varieties
+
+Transfer the method: source-specific evidence, morphological analysis, whole-form comparison, competing models, calibrated confidence and scoped propagation. Rebuild phonological/orthographic and contact profiles locally. Do not transfer these exact sound changes, semantic extensions, suffixes, confidence values or donor assignments mechanically. Consult authoritative donor dictionaries or specialist literature for genuinely uncertain lexical facts; record exactly what each source supports.
