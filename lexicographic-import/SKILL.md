@@ -64,6 +64,8 @@ Reject unsupported comparisons explicitly; rejection is a decision status, not a
 
 Retain provenance and exact source locators on each form, sense and example. Keep stable source keys mapped to retained entry/form/sense identities after consolidation, and update affected references, family memberships and analyses. Assert explicit form–sense links only where the platform represents them. Complete declared search routes and resolve candidates, then review the remaining singleton lexemes once. When loans are in scope, screen the resulting families and singletons afterward.
 
+Within a reconciled entry, collapse cross-source senses that express the same meaning, including near-identical definitions with different wording. Compare referent, grammatical function, usage restrictions and examples before merging. Preserve distinct readings and source referrals. Take the union of attested wordings in each language, field-level provenances and locators, and supported variety or subvariety claims. A field can have multiple contributors and a sense can carry multiple variety claims. Keep examples and rebind sense-scoped links. The public reading may pool the wordings and claims without assigning each wording to an individual source or subvariety. Retain the original records and old-to-surviving sense mapping centrally.
+
 ## Reconcile centrally
 
 Account for every source item as represented, explicitly excluded, unresolved source content, or already represented by a stable mapping. Track prepared coverage separately from published coverage. Complete page-crossing entries together and resolve forward references after corpus assembly.
