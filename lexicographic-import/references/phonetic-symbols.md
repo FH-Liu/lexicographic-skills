@@ -1,6 +1,6 @@
 # Special-symbol catalogue for Tungusic and Mongolic dictionaries
 
-This is a reusable recognition and treatment guide induced from existing import workflows, not a universal phoneme inventory. Establish the source's actual alphabet and distinguish orthography, source transcription and independently printed pronunciation. Keep detailed source conventions, exceptional readings and their locators in that source's central register.
+Establish the source's actual alphabet and distinguish orthography, source transcription and independently printed pronunciation. Keep detailed source conventions, exceptional readings and their locators in that source's central register.
 
 For example, “This dictionary prints `ʦ`. Should headwords retain `ʦ` or use `ts`? Should the same convention apply to `ʧ/tʃ` and `ʤ/dʒ`?”
 
@@ -8,7 +8,7 @@ For example, “This dictionary prints `ʦ`. Should headwords retain `ʦ` or use
 
 | Symbols or notation | Treatment |
 |---|---|
-| `ʧ`, `ʤ`, `ʦ`; `tʃ`, `dʒ`, `ts` | The split convention uses `ʧ → tʃ`, `ʤ → dʒ` and `ʦ → ts`. A literal convention retains the ligatures. Show both choices, especially where a source also prints adjacent stop and fricative letters. Preserve any source contrast in the mapping. |
+| `ʧ`, `ʤ`, `ʦ`; `tʃ`, `dʒ`, `ts` | The split convention uses `ʧ → tʃ`, `ʤ → dʒ` and `ʦ → ts`. A literal convention retains the ligatures. Preserve any contrast the source makes between a ligature and adjacent stop and fricative letters. |
 | `tɕ`, `tʂ`, `dʐ`; `s ʃ ɕ ʂ` | Distinguish the actual series and inspect whether a separate stop component is printed. An encoding choice for one series applies only within its agreed scope. Preserve other notation unless its treatment is established for the source. |
 | `n ŋ ȵ ɲ`; possible lookalikes `ɳ η`, sequences `nj/ng` | Inspect hooks, loops and descenders; preserve distinctions rather than treating nasal-looking characters or digraphs as equivalent. A source inventory guides inspection but does not justify correcting a clearly printed exception. |
 | `e ə`, `a ʌ`, `o ɔ ɵ`, `u ʊ ʉ`, `i ɪ`, `æ y ɿ` | Preserve vowel quality. Check missing bars, open versus closed shapes and small-cap forms. `ɵ/θ` and `ʊ/ⱱ` are known visual confusions, not automatic replacement pairs. Do not infer a vowel from a translation, pronunciation aid or expected harmony. |
@@ -21,4 +21,4 @@ For example, “This dictionary prints `ʦ`. Should headwords retain `ʦ` or use
 
 Compare difficult glyphs with clear instances in the same print/font, inspect code points and use a display font that distinguishes the candidates. Morphology, alphabetical order, OCR agreement and an expected sound system help find suspect readings; they do not substitute for checking the source. Record raw text, verified reading and any approved conversion separately, with its scope and authority. Attribute a source-reading correction separately from the source's own spelling or a proposed printing error.
 
-Use the main skill's source-to-register proofreading pass to check complete symbol sequences, including ordinary-looking OCR where a bar, hook, repeated letter or superscript may have disappeared. Keep unresolved alternatives and dependent judgments explicit offline. A change of transcription policy requires remapping affected search keys and dependencies; it does not authorize rewriting previously published data.
+Proofread complete symbol sequences for a missing bar, hook, repeated letter or superscript. A change of transcription policy requires remapping affected search keys and dependencies; it does not authorize rewriting previously published data.

@@ -30,6 +30,6 @@ Choose a working replication criterion after inspecting the number of independen
 
 ## Interpreting coverage
 
-Name the routes that were available, the inventory searched and the candidates resolved. Review remaining singletons after accepted mergers and memberships have been applied. Evidence-backed residual searches can use patterns learned from the first pass. Distinguish additional discoveries from previous results and record their marginal yield. An exhausted queue establishes the limits of that search.
+Report the inventory and routes searched, the candidates resolved, and the new findings from each additional pass.
 
 In loan work, distinguish the number of borrowing hypotheses from the number of members carrying the proposed borrowed base. A derivative may inherit the component while developing its own meaning or taking a different full compound model. Check each affected member and retain explicit exceptions. A completed screen without a proposal leaves the ultimate origin open.

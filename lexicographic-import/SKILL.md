@@ -13,7 +13,7 @@ Read the alphabet, usage notes, abbreviation lists and some difficult entries to
 
 **Ask the user how to encode special symbols found in the source.** Group outstanding choices by field and reuse conventions already confirmed for this import. Preserve the original glyphs and distinguish display spelling from search equivalences. See the [symbol catalogue and conversion options](references/phonetic-symbols.md).
 
-Distinguish a source spelling, a transliteration, a phonetic transcription and a pronunciation aid, including Chinese characters or pinyin supplied as a reading aid. Keep separately printed values paired with their forms. A roman letter can have different values across dictionaries. Use the source’s own examples to interpret vowel length, doubling, diacritics, palatalization and labialization. Preserve a cited verb form alongside a prepared stem and attribute any authorized derivation. Where a dictionary gives traditional Mongolian or Manchu script alongside Cyrillic or romanization, retain each attested form with its script, locator and source-assigned function. A historical spelling, a modern headword and a pronunciation can all be evidence for different questions. Use vowel-harmony or suffix patterns to locate doubtful readings, then settle them against the source.
+Distinguish a source spelling, a transliteration, a phonetic transcription and a pronunciation aid, including Chinese characters or pinyin supplied as a reading aid. Keep separately printed values paired with their forms. Use the source’s own examples to interpret vowel length, doubling, diacritics, palatalization and labialization. Preserve a cited verb form alongside a prepared stem and attribute any authorized derivation. Where a dictionary gives traditional Mongolian or Manchu script alongside Cyrillic or romanization, retain each attested form with its script, locator and source-assigned function. Use vowel-harmony or suffix patterns to locate doubtful readings, then settle them against the source.
 
 ## Transcribe and proofread
 
@@ -24,7 +24,7 @@ Distinguish a source spelling, a transliteration, a phonetic transcription and a
 
 ## Map entries and reconcile meanings
 
-Preserve printed organization, homonyms, senses, labels, example translations and the exact form to which a pronunciation belongs. Attach regional or register labels at the narrowest scope supported by the source. A label on one form or sense cannot be extended to the whole entry without evidence. Preserve the literal abbreviation alongside an attributed interpretation when its reading is uncertain.
+Preserve printed organization, homonyms, senses, labels, example translations and the exact form to which a pronunciation belongs. Attach each regional or register label to the form, sense or entry it describes. Preserve the literal abbreviation alongside an attributed interpretation when its reading is uncertain.
 
 In a multilingual comparative wordlist, preserve row and column alignment, printed blanks and the variety of each form. Record the alignment as the compiler’s comparison. Claims of identity, cognacy or borrowing require separate evidence.
 

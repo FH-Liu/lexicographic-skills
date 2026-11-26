@@ -1,6 +1,6 @@
 # Donor catalogues for Tungusic and Mongolic lexical comparison
 
-These catalogues preserve comparative cases from earlier analyses, with variety and source labels where those identify the witness. Use the examples as retrieval leads. Assess a new recipient against its own spelling, pronunciation, meaning and contact setting. Shared historical vocabulary can reach several varieties by different routes.
+These catalogues preserve comparative cases from earlier analyses, with variety and source labels where those identify the witness. Use the examples as retrieval leads. Assess a new recipient against its own spelling, pronunciation, meaning and contact setting. Shared historical vocabulary can reach several varieties by different routes. For uncertain donor forms or meanings, cite the dictionary or specialist study you consulted.
 
 ## Chinese retrieval patterns
 
@@ -24,7 +24,7 @@ Cross-variety repetitions of the same root are corroborating attestations, not i
 - Checking the transcriptions for 青海 and 上海 removed the evidence for a proposed b:h correspondence.
 - For Dorji `hi`, the study compared the air and vital-energy senses with Mongolian хий and treated the laughter sense separately.
 - The study distinguished Dorji `laas` ‘tin can’ from `las` ‘basket’ when assessing donors.
-- `qɵngkɵ/sɵngkɵ` window can have a Chinese lexical-source analysis while Mongolian цонх remains relevant to mediation. Label the claim actually established.
+- `qɵngkɵ/sɵngkɵ` window can have a Chinese lexical-source analysis while Mongolian цонх remains relevant to mediation.
 - Short particles, nursery words and kinship terms need calibrated judgment; resemblance and contact do not force certainty. Warranted possible proposals should still be registered.
 
 ## Russian and international vocabulary
@@ -33,16 +33,10 @@ Assess complete shape and meaning, including recipient derivatives. The project 
 
 Adaptation, clusters, final loss and Russian morphology may explain differences, but retain unexplained material. `kino`, `adrēs`, `nērw` and technical kh/h forms have competing European explanations; Russian contact alone does not settle them. A mismatch with English/French does not exclude German or mediation.
 
-For clear international borrowings, record the evidence for borrowing even when the immediate donor remains unresolved.
-
 ### Cases from the Russian-loan study
 
 - The study compared `sēēmuxka` ‘sunflower’ with семечко ‘seed’, leaving the seed-to-plant shift and part of the sound correspondence open.
 - `kombinēr` has a printed economic meaning, separate from the `kombain` harvester family. Do not force комбайнёр onto it from spelling.
 - `karton` glossed 卡通 does not justify Russian картон “cardboard.” A source/meaning conflict is not repaired by choosing the nearest donor string.
 - `funt` has a strong фунт form match despite a source gloss mixing pound/pood. Keep the source issue distinct from the confidence of the form comparison.
-- `kabkan` with no definition is a source-completion lead; resemblance to капкан does not supply an attested trap meaning. Decide using usable evidence, without inventing the missing meaning.
-
-## Other varieties
-
-Transfer the method: source-specific evidence, morphological analysis, whole-form comparison, competing models, calibrated confidence and scoped propagation. Rebuild phonological/orthographic and contact profiles locally. Do not transfer these exact sound changes, semantic extensions, suffixes, confidence values or donor assignments mechanically. Consult authoritative donor dictionaries or specialist literature for genuinely uncertain lexical facts; record exactly what each source supports.
+- `kabkan` with no definition is a source-completion lead; resemblance to капкан does not supply an attested trap meaning.
