@@ -1,4 +1,4 @@
 interface:
   display_name: "Word Families and Loans"
-  short_description: "Search families, variants and inflections, then loans"
-  default_prompt: "Use $lexicographic-families-and-loans to search this corpus jointly for word families, formal variants and inflections, then screen for loans."
+  short_description: "Assess Tungusic and Mongolic lexical relationships"
+  default_prompt: "Use $lexicographic-families-and-loans to assess word families, variants and inflections in this corpus. Include loan screening when requested."

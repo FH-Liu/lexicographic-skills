@@ -1,19 +1,6 @@
-# Oroqen–Solon–Dagur comparisons and transfer limits
+# Donor catalogues for Tungusic and Mongolic lexical comparison
 
-These examples are inherited **project analyses**, not newly certified etymologies. The underlying source sheets and current register retain their confidence and evidence. Use them to retrieve comparable cases; adjudicate each new case on its own source evidence.
-
-## Source and variety discipline
-
-| Material | Essential discipline |
-|---|---|
-| Hu 2001, Chaoyang Oroqen | Search both supplied citations and prepared stems; preserve their distinction. Do not impose Hu's verb conversion on Solon or Dagur. |
-| Engkebatu 1984, Tengke Dagur | Separate printed comparisons, source doubt and later analyst expansions. Transcription is not automatically IPA. |
-| Dular 2019 / Delkir 2021, Nonni Solon | Pair each form with its own source's meanings; a merged entry does not make every source meaning evidence for every alternative. |
-| Dorji 1998 | Unmarked Hailar Solon; marked Khamnigan/Aoluguya records stay in their own varieties. Use printed pronunciation beside spelling. |
-
-Dorji `q/j/x/c` correspond in the cited materials to /tʃ dʒ ʃ ts/, not pinyin or English defaults. Orthographic `e/ē`, `o/ɵ/v`, g/ḡ and doubled vowels/consonants matter. The alphabet-to-IPA diagnostic is not a pronunciation generator. Broader cross-variety correspondences are hypotheses, not permission to rewrite stored forms or collapse varieties.
-
-Dorji family screening historically uses the extracted single-word inventory. Lexicalized compounds within it can be analyzed using their source evidence; multiword entries do not enter simply because they might help. The present user explicitly permits useful compound-origin evidence and removes the earlier instruction to ignore it.
+These catalogues preserve comparative cases from earlier analyses, with variety and source labels where those identify the witness. Use the examples as retrieval leads. Assess a new recipient against its own spelling, pronunciation, meaning and contact setting. Shared historical vocabulary can reach several varieties by different routes.
 
 ## Chinese retrieval patterns
 
@@ -46,7 +33,7 @@ Assess complete shape and meaning, including recipient derivatives. The project 
 
 Adaptation, clusters, final loss and Russian morphology may explain differences, but retain unexplained material. `kino`, `adrēs`, `nērw` and technical kh/h forms have competing European explanations; Russian contact alone does not settle them. A mismatch with English/French does not exclude German or mediation.
 
-The current register treats clear international vocabulary as borrowing with `Undetermined` donor language when resolving the immediate source is not useful. This is a project convention; do not classify all international words as Russian.
+For clear international borrowings, record the evidence for borrowing even when the immediate donor remains unresolved.
 
 Recorded cautionary examples:
 
