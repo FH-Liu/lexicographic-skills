@@ -2,7 +2,7 @@
 
 This is a reusable recognition and treatment guide induced from existing import workflows, not a universal phoneme inventory. Establish the source's actual alphabet and distinguish orthography, source transcription and independently printed pronunciation. Keep detailed source conventions, exceptional readings and their locators in that source's central register.
 
-For a new import, ask about the symbols actually present before choosing their stored encoding. Show a literal sample and the proposed output. For example, “This dictionary prints ʦ. Should the form display ʦ or ts? Should the same convention apply to ʧ/tʃ and ʤ/dʒ?” Record the agreed scope. Preserve the literal evidence whichever convention is chosen. For an ongoing import, reuse the user’s recorded choice unless they change it.
+For example, “This dictionary prints `ʦ`. Should headwords retain `ʦ` or use `ts`? Should the same convention apply to `ʧ/tʃ` and `ʤ/dʒ`?”
 
 ## Common distinctions and encoding options
 

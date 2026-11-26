@@ -19,11 +19,11 @@ These catalogues preserve comparative cases from earlier analyses, with variety 
 
 Cross-variety repetitions of the same root are corroborating attestations, not independent root counts. Chinese–Dagur–Solon–Oroqen resemblance does not choose direct versus mediated transmission. Consider Mongolic/Manchu models and intermediaries without making an exhaustive route reconstruction a prerequisite.
 
-Examples of corrections that should guide practice:
+### Cases from the Chinese-loan study
 
-- The old 青海/上海 b readings were transcription errors, removing a purported b:h pattern. Check whether an apparent sound exception is actually a reading error.
-- Dorji `hi` air/vital energy has a probable Mongolic comparison in the current register; the Chinese gloss 气 alone did not justify the earlier Chinese lead. Laughter is outside that loan's sense scope.
-- Dorji `laas` can and `las` basket are separate current units. A similar shape does not license one donor across them.
+- Checking the transcriptions for 青海 and 上海 removed the evidence for a proposed b:h correspondence.
+- For Dorji `hi`, the study compared the air and vital-energy senses with Mongolian хий and treated the laughter sense separately.
+- The study distinguished Dorji `laas` ‘tin can’ from `las` ‘basket’ when assessing donors.
 - `qɵngkɵ/sɵngkɵ` window can have a Chinese lexical-source analysis while Mongolian цонх remains relevant to mediation. Label the claim actually established.
 - Short particles, nursery words and kinship terms need calibrated judgment; resemblance and contact do not force certainty. Warranted possible proposals should still be registered.
 
@@ -35,9 +35,9 @@ Adaptation, clusters, final loss and Russian morphology may explain differences,
 
 For clear international borrowings, record the evidence for borrowing even when the immediate donor remains unresolved.
 
-Recorded cautionary examples:
+### Cases from the Russian-loan study
 
-- `sēēmuxka` sunflower versus семечко seed is probable with semantic/segmental qualifications; do not invent an attested sunflower donor `семушка` from a brand name.
+- The study compared `sēēmuxka` ‘sunflower’ with семечко ‘seed’, leaving the seed-to-plant shift and part of the sound correspondence open.
 - `kombinēr` has a printed economic meaning, separate from the `kombain` harvester family. Do not force комбайнёр onto it from spelling.
 - `karton` glossed 卡通 does not justify Russian картон “cardboard.” A source/meaning conflict is not repaired by choosing the nearest donor string.
 - `funt` has a strong фунт form match despite a source gloss mixing pound/pood. Keep the source issue distinct from the confidence of the form comparison.

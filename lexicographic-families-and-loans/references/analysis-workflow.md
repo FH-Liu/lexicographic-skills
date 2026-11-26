@@ -8,7 +8,9 @@ Reuse these local decisions during the corpus-wide search. Missing forward targe
 
 ## Endpoints, evidence and confidence
 
-Record the exact forms, entry and sense identities, retrieval evidence, judgment and reason. For a proposed merger, identify the retained entry or base and the absorbed entry or inflected form. An inflectional gloss may explain the surface form without adding a lexical sense. Check whether another same-spelling form, a second sense, or a different constituent calls for a separate comparison. Compare unassigned entries against assigned members as well as against one another.
+Record the exact forms, entry and sense identities, retrieval evidence, judgment and reason. For a proposed merger, identify the retained entry or base and the absorbed entry or inflected form. If the base is unattested, record the supported inflectional analysis without creating a lemma for the merger. An inflectional gloss may explain the surface form without adding a lexical sense. Check whether another same-spelling form, a second sense, or a different constituent calls for a separate comparison. Compare unassigned entries against assigned members as well as against one another.
+
+When a glossless entry has an unambiguous reference such as 同, use the target meaning within the scope specified by the source. Cite the target entry and any printed sense number. Assess a possible merger separately.
 
 Accept supported hypotheses with qualitative confidence. Reject an unsupported hypothesis at the scope actually examined and keep unexamined work open. An earlier rejection can be reconsidered when evidence changes. The following scale is useful when the project uses graded assessments.
 
